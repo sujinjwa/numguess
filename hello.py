@@ -8,3 +8,12 @@ print('유추한 값: ', answer)
 
 real_answer = random.randrange(1, 100 + 1)
 print('실제 정답: ', real_answer)
+
+# DOn't Do
+animals = ['cat', 'dog']
+
+# Do (Trailing comma)
+menus = [
+    'ramen',
+    'pasta',
+]
