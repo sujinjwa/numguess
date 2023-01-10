@@ -10,10 +10,11 @@ real_answer = random.randrange(1, 100 + 1)
 print('실제 정답: ', real_answer)
 
 # DOn't Do
-animals = ['cat', 'dog']
+animals = ['cat', 'dog', 'dragon']
 
 # Do (Trailing comma)
 menus = [
     'ramen',
     'pasta',
+    'bear soup'
 ]
